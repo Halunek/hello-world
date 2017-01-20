@@ -1,4 +1,4 @@
 # hello-world
 just another repository
-Hej nei bardzo jeszcze wiem o co tu chodzi
-ale zaniedlugo sie dowiem
+super new to programming 
+Any help? tips and tricks ? :D
